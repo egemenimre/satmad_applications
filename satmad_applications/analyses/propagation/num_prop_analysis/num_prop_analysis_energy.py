@@ -12,7 +12,7 @@ from typing import Dict
 from astropy import units as u
 
 from satmad.propagation.numerical_propagators import ODESolverType
-from satmad_applications.analyses.propagation.num_prop_analysis import (
+from satmad.propagation.tests.num_prop_analysis_engine import (
     analyse_energy_along_trajectory,
     init_rv,
     plot_energy_diff,
