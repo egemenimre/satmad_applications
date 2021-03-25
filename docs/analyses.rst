@@ -1,12 +1,19 @@
 Analyses
 ==========
 
-You can find the interactive Jupyter notebook versions of these at the
-`project repository <https://github.com/egemenimre/satmad_applications/tree/master/docs/analyses>`_.
+You can find the interactive Jupyter notebook versions of these analyses at the
+`project repository <https://github.com/egemenimre/satmad_applications/tree/main/docs/analyses>`_.
 
 
 Propagation
 --------------
+
+Conservation of Energy
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Analysis of conservation of energy properties of the standard `scipy` Ordinary Differential Equation solvers
+during orbit propagation:
+
 .. toctree::
     :maxdepth: 1
 
