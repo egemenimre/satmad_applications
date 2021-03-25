@@ -6,7 +6,7 @@ build-backend = "flit_core.buildapi"
 module = "satmad_applications"
 author = "Egemen Imre"
 description-file = "README.rst"
-home-page = "https://github.com/egemenimre/satmad/"
+home-page = "https://github.com/egemenimre/satmad_applications/"
 keywords = "satellite,satellite design,mission analysis,aerospace,engineering,astrodynamics,orbits,orbital mechanics"
 classifiers = [
     "Intended Audience :: Science/Research",
