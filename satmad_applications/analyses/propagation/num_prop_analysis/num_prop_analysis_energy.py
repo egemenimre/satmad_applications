@@ -10,7 +10,6 @@ Case: Energy error and runtimes.
 from typing import Dict
 
 from astropy import units as u
-
 from satmad.propagation.numerical_propagators import ODESolverType
 from satmad.propagation.tests.num_prop_analysis_engine import (
     analyse_energy_along_trajectory,
