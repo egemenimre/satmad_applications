@@ -1,2 +1,3 @@
-astropy
-satmad
+astropy~=4.2.1
+matplotlib
+satmad~=0.1
