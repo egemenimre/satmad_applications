@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Other temporary stuff
-satmad_applications/local
+# Other temporary and local stuff
+satmad_applications/local/
+local_docs/
