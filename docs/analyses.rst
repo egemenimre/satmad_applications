@@ -8,11 +8,11 @@ You can find the interactive Jupyter notebook versions of these analyses at the
 Propagation
 --------------
 
-Conservation of Energy
-^^^^^^^^^^^^^^^^^^^^^^^^
+Numerical Orbit Propagation with Scipy: Performance, Accuracy and Limitations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Analysis of conservation of energy properties of the standard `scipy` Ordinary Differential Equation solvers
-during orbit propagation:
+Analysis of performance, accuracy and conservation of energy properties of the standard `scipy`
+Ordinary Differential Equation solvers during orbit propagation:
 
 .. toctree::
     :maxdepth: 1
