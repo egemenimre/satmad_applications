@@ -1,4 +1,0 @@
-Selected References
-===================
-
-None yet
