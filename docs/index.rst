@@ -15,6 +15,7 @@ project <https://github.com/egemenimre/satmad_applications>`_.
     :maxdepth: 2
 
     analyses
+    how_to_guides
     references
 
 Changelog
