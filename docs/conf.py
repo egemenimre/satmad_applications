@@ -43,6 +43,7 @@ extensions = [
     "sphinx.ext.intersphinx",  # Link mapping to external projects
     # "sphinx.ext.doctest",  # Doctest
     "nbsphinx",  # Jupyter notebook support
+    "myst_parser",  # MyST parser
 ]
 numpydoc_show_class_members = False
 
@@ -55,7 +56,7 @@ templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 # The suffix of source filenames.
-source_suffix = ".rst"
+source_suffix = [".rst", ".md"]
 
 # The master toctree document.
 master_doc = "index"
