@@ -1,6 +1,8 @@
 Analyses
 ==========
 
+This section presents analyses of real-world problems or mathematics, modelling or physics problems.
+
 You can find the interactive Jupyter notebook versions of these analyses at the
 `project repository <https://github.com/egemenimre/satmad_applications/tree/main/docs/analyses>`_.
 
