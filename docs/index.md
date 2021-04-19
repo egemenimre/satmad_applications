@@ -12,7 +12,7 @@ Check the source code of [SatMAD](https://github.com/egemenimre/satmad). The app
 
 ```{toctree} 
 ---
-maxdepth: 2
+maxdepth: 3
 ---
 how_to_guides.md
 analyses.md
