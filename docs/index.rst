@@ -7,7 +7,7 @@ to be used in the design and operation of real satellites.
 
 This project contains applications, analyses and examples with SatMAD project.
 
-Check the source code of `SatMAD <https://github.com/egemenimre/satmad>`_. The applications under `this
+Check the source code of `SatMAD <https://github.com/egemenimre/satmad>`_. The applications are under `this
 project <https://github.com/egemenimre/satmad_applications>`_.
 
 
