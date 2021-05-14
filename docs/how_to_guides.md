@@ -13,5 +13,6 @@ You can find the interactive Jupyter notebook versions of these analyses at the
 maxdepth: 1
 ---
 how_to_guides/basics/gs_access.ipynb
+how_to_guides/maneuver/hohmann_1.ipynb
 ```
     
