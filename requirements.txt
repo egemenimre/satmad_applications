@@ -1,3 +1,4 @@
 astropy~=4.2.1
 matplotlib
-satmad~=0.1
+numpy
+satmad~=0.0.4
