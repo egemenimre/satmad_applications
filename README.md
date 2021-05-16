@@ -1,6 +1,7 @@
 # SatMAD Applications and Examples
 
 [![Documentation Status](https://readthedocs.org/projects/satmad-applications/badge/?version=latest)](https://satmad-applications.readthedocs.io/en/latest/?badge=latest)
+[![DOI](https://zenodo.org/badge/351173260.svg)](https://zenodo.org/badge/latestdoi/351173260)
 
 SatMAD is an open source Python package, aiming at providing the base functionality to solve satellite mission analysis
 and design as well as orbital mechanics problems with enough precision and performance to be used in the design and
