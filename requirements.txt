@@ -1,4 +1,4 @@
-astropy~=4.2.1
+astropy
 matplotlib
 numpy
-satmad~=0.0.4
+satmad
