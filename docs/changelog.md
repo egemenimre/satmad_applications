@@ -12,7 +12,7 @@ Changes and additions to the examples and analyses are given here.
 
 ### Under development: Version 0.3
 
-- Watch this space!
+- Added Binder links
 
 
 ## Previous Versions
