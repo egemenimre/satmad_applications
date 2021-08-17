@@ -13,6 +13,7 @@ Changes and additions to the examples and analyses are given here.
 ### Under development: Version 0.3
 
 - Added Binder links
+- Added [Sentinel-2 Orbit Evolution](analyses/sats/s2_analysis.ipynb)
 
 
 ## Previous Versions
