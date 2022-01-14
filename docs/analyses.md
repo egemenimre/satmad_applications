@@ -8,9 +8,13 @@ The text-only Jupyter notebook versions of these analyses are at the [project re
 
 Analysis of existing orbits and missions:
 
--   [Sentinel-2A Orbit Evolution](analyses/sats/s2_analysis.ipynb)
+- [Sentinel-2A Orbit Evolution](analyses/sats/s2_analysis.ipynb)
     
     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egemenimre/satmad_applications/main?filepath=%2Fdocs%2Fanalyses%2Fsats%2Fs2_analysis.ipynb)
+
+-   [Grizu Basics](analyses/sats/grizu.ipynb)
+    
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egemenimre/satmad_applications/main?filepath=%2Fdocs%2Fanalyses%2Fsats%2Fgrizu.ipynb)
 
 ## Propagation
 
